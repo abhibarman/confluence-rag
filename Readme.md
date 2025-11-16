@@ -13,7 +13,6 @@ A powerful Retrieval-Augmented Generation (RAG) application that scrapes Conflue
 - **🤖 AI-Powered Q&A**: Uses Google Gemini 2.0 Flash for accurate, contextual answers
 - **📊 Index Management**: Create, load, and delete multiple indexes
 - **🎯 Source Attribution**: Every answer includes links to source Confluence pages
-- **🔄 Flexible Crawling**: Automatically discovers and indexes linked pages
 - **📈 Real-time Progress**: Live feedback during scraping and indexing
 - **🐛 Enhanced Debugging**: View scraped content, chunks, and retrieval results
 - **⚙️ Configurable Parameters**: Adjust chunk sizes, retrieval settings, and scraping limits
