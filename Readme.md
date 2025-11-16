@@ -30,7 +30,7 @@ A powerful Retrieval-Augmented Generation (RAG) application that scrapes Conflue
 
 1. **Clone the repository**
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/abhibarman/confluence-rag.git
 cd confluence-rag
 ```
 
